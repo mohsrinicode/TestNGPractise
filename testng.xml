@@ -5,7 +5,7 @@
     <classes>
     <!--   <class name="com.testPackage_1.TestClass_2_P1"/>  -->
     <!--  <class name="com.testPackage_2.TestClass_1_P2"/>  --> 
-    <!--    <class name="com.testPackage_2.TestClass_2_P2"/>  --> 
+       <class name="com.testPackage_2.TestClass_2_P2"/>  
         <class name="com.testPackage_1.TestClass_1_P1"/>  
     </classes>
   </test> <!-- Test -->
